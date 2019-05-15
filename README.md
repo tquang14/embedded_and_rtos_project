@@ -1,6 +1,7 @@
 # embedded_and_rtos_project
 a stupid car parking system using stm32f103c8t6 board with rtos and non-rtos version
-this project using stm32cubemx to generate code, HAL library and complier is keilC v5
+.This project using stm32cubemx to generate code, HAL library and complier is keilC v5
+
 module using in project to interface with stm32f103c8t6 board:
   +micro sd card (spi) 
   +RC522 (spi)
